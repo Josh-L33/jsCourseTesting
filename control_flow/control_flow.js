@@ -42,6 +42,8 @@ switch (userType) {
 let isAuthenticated = true;
 let authenticationStatus = isAuthenticated ? "Authenticated" : "Not authenticated";
 
+
+
 console.log("Access Level:", accessLevel);
 console.log("User Message:", userMessage);
 console.log("User Category:", userCategory);
